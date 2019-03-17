@@ -1,1 +1,4 @@
+markdown: redcarpet
+baseurl: /Lucky626
+exclude: ['README.md']
 theme: jekyll-theme-slate
